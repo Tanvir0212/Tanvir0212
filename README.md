@@ -81,6 +81,9 @@ SQL + Python project analyzing customer behavior and sales trends.
 
 ⭐ From [Tanvir](https://github.com/Tanvir0212)
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Tanvir0212/Tanvir0212/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Tanvir0212/Tanvir0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
