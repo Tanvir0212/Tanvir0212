@@ -74,16 +74,12 @@ SQL + Python project analyzing customer behavior and sales trends.
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: [(add your link)](https://www.linkedin.com/in/tanvirahmedda/)  
+💼 LinkedIn: (https://www.linkedin.com/in/tanvirahmedda/
 🌍 Portfolio: https://tanvir0212.github.io/TanvirAhmed.github.io/
 
 ---
 
 ⭐ From [Tanvir](https://github.com/Tanvir0212)
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Tanvir0212/Tanvir0212/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Tanvir0212/Tanvir0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
